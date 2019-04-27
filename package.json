@@ -1,0 +1,12 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RyanHirsch/pi-test.git",
+  "author": "Ryan Hirsch <Ryan.Hirsch@gmail.com> (https://ryanhirsch.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^1.0.0",
+    "raspi-io": "^10.0.2"
+  }
+}
